@@ -39,28 +39,36 @@ Menu Utama: Setelah program berjalan, menu utama akan muncul dengan beberapa pil
 ## KEUNGGULAN PROGRAM INI ##
 
 1. Pengelolaan Data yang Terstruktur
+   
    Program ini dirancang untuk mengelola data mahasiswa dengan format yang terstruktur, termasuk nama, NIM, dan kelas. Hal ini memudahkan pengguna dalam mengorganisasi informasi secara sistematis.
 
 2. Pembagian Kelas Otomatis Berdasarkan NIM
+
    Program secara otomatis menetapkan kelas mahasiswa (Kelas A atau B) berdasarkan NIM yang dimasukkan. Ini mengurangi kemungkinan kesalahan dalam klasifikasi manual.
 
 3. Validasi Data
+
    Program memiliki validasi input yang memastikan data yang dimasukkan benar:
    - Nama tidak boleh kosong.
    - NIM harus berupa angka dalam rentang tertentu (1-94). Validasi ini membantu menghindari data yang salah atau tidak lengkap.
 
 4. Pengurutan Data
+
    Data mahasiswa diurutkan berdasarkan NIM sehingga memudahkan pencarian atau pemrosesan lebih lanjut. Fitur ini memastikan daftar mahasiswa tersaji dengan rapi dan terorganisasi.
 
 5. Pilihan Menampilkan Data per Kelas
+
    Program menyediakan fitur untuk menampilkan data mahasiswa berdasarkan kelas tertentu (A atau B). Ini membantu pengguna yang ingin fokus pada satu kelompok mahasiswa saja.
 
 6. Antarmuka Sederhana dan Mudah Digunakan
+
    Dengan menu utama yang jelas, pengguna dapat dengan mudah menavigasi program untuk menambahkan data, menampilkan data, atau keluar dari aplikasi. Tidak diperlukan keahlian teknis tinggi untuk menggunakan       
    program ini.
 
 7. Fleksibel untuk Dikembangkan
+
    Program ini memiliki struktur yang sederhana dan modular, sehingga mudah diperluas dengan fitur tambahan seperti pencarian mahasiswa, penghapusan data, atau penyimpanan ke file eksternal.
 
 8. Efisiensi dalam Pengelolaan Data
+
    Program ini dirancang untuk penggunaan cepat dan efisien tanpa memerlukan software tambahan. Semua fungsi inti disediakan dalam satu tempat.
