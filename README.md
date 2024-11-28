@@ -10,6 +10,7 @@ Menu Utama: Setelah program berjalan, menu utama akan muncul dengan beberapa pil
 
 === Menu Utama ===
 1. Tambah Data Mahasiswa
+   
     Pilih menu 1 untuk menambahkan mahasiswa.
     Masukkan nama mahasiswa (tidak boleh kosong).
     Masukkan NIM mahasiswa (angka dalam rentang 1-94).
@@ -19,14 +20,17 @@ Menu Utama: Setelah program berjalan, menu utama akan muncul dengan beberapa pil
     Program menampilkan pesan konfirmasi jika data berhasil ditambahkan.
    
 2. Tampilkan Data Mahasiswa
+   
     Pilih menu 2 untuk melihat daftar semua mahasiswa.
     Program akan menampilkan data mahasiswa yang diurutkan berdasarkan NIM.
 
 3. Tampilkan Mahasiswa per Kelas
+   
     Pilih menu 3 untuk melihat mahasiswa dari kelas tertentu.
     Pilih 1 untuk Kelas A atau 2 untuk Kelas B.
     Program akan menampilkan daftar mahasiswa dari kelas yang dipilih, diurutkan berdasarkan NIM.
 
 4. Keluar
+   
    Pilih menu 4 untuk keluar dari program.
    Program akan menampilkan pesan perpisahan sebelum berhenti.
