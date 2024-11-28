@@ -9,7 +9,7 @@ def tambah_mahasiswa():
     # Validasi input nama
     while True:
         nama = input("Masukkan Nama Mahasiswa: ").strip()
-        if nama:  # Cek jika nama tidak kosong
+        if nama: 
             break
         print("Nama tidak boleh kosong. Silakan masukkan nama dengan benar.")
     
