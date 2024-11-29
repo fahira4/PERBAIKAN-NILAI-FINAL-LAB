@@ -72,3 +72,4 @@ Menu Utama: Setelah program berjalan, menu utama akan muncul dengan beberapa pil
 8. Efisiensi dalam Pengelolaan Data
 
    Program ini dirancang untuk penggunaan cepat dan efisien tanpa memerlukan software tambahan. Semua fungsi inti disediakan dalam satu tempat.
+
